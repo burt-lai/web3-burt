@@ -13,7 +13,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=web3-burt&show_icons=true&title_color=00b8ff&icon_color=00ff9f&text_color=9f9f9f&bg_color=151515" alt="web3-burt's github stats"/>
 
 <!--
-[![Jancat's github stats](https://github-readme-stats.vercel.app/api?username=Jancat)](https://github.com/anuraghazra/github-readme-stats)
+[![Burt's github stats](https://github-readme-stats.vercel.app/api?username=web3-burt)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 <br>
@@ -24,11 +24,10 @@
 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![RxJS](https://img.shields.io/badge/RxJS-D81B60?style=flat-square&logo=RxJS&logoColor=fff)
+
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
