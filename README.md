@@ -1,6 +1,6 @@
-# Burt (web3-burt)
+# Burt / web3-burt / flygo 
 
-💫 Hi, here is **Burt (web3-burt)**, 💙 the ACGN culture and enjoy coding the world (to be ACGeek).
+💫 Hi, here is **Burt**, 💙 the ACGN culture and enjoy coding the world (to be ACGeek).
 
 <br>
 
